@@ -14,4 +14,6 @@ Secondly, the data storage should be heterogeneous. The video data is unstructur
 ## Database
 I want to choose MySQL as my database. The main reasons are below
 ### Features of the data
-The data we need to store is directly related to the behavior of the users and the information such as the courses, scores, watch records and so on can be 
+The information we need to store is directly related to the behavior of the specific users. As a result, the information such as the courses, scores, watch records can be stored in a simple two-dimensional structured form and the structure of forums, courses and knowledge points can be stored in tree mode. Considering the features of our data, I think SQL database is well enough to meet our needs.
+### Cost and Scalability
+As for the specific database, I think MySQL is the best choice considering the cost and Scalability. MySQL is the most popular open source SQL database, which means low cost and excelent flexibility. Through the various plugins in the community we can build the database at low cost.
