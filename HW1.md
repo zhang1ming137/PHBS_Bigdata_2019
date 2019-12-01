@@ -16,6 +16,7 @@ Firstly, the data are closely linked. The data sources in online education syste
 
 Secondly, the data storage should be heterogeneous. The video data is unstructured, and the data of the users such as the courses, scores and learning record is structured. the structure of forums and courses is stored in tree mode, and the basic information of users is stored in simple two-dimensional table structured form. Therefore, the storage forms in online education system should be diverse, thus forming a heterogeneous database, which puts forward higher requirements for data management
 ## Workflow
+![Image of Workflow](https://github.com/zhang1ming137/PHBS_Bigdata_2019/blob/master/Workflow.png)
 ## Database
 I want to choose MySQL as my database. The main reasons are below
 ### Features of Data
