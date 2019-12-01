@@ -10,3 +10,8 @@ The data of online education has the general 4V characteristics, including large
 Firstly, the data are closely linked. The data sources in online education system are different, but there are countless links between them. For example, each student has the data such as courses, forum comments, scores directly related to them, knowledge points combine the knowledge maps and exercise databases together. At the same time, each student is linked with each knowledge point. We can see that the data in online education field are closely related and complex.
 
 Secondly, the data storage should be heterogeneous. The video data is unstructured, and the data of the users such as the courses, scores and learning record is structured. the structure of forums and courses is stored in tree mode, and the basic information of users is stored in simple two-dimensional table structured form. Therefore, the storage forms in online education system should be diverse, thus forming a heterogeneous database, which puts forward higher requirements for data management
+## Workflow
+## Database
+I want to choose MySQL as my database. The main reasons are below
+### Features of the data
+The data we need to store is directly related to the behavior of the users and the information such as the courses, scores, watch records and so on can be 
